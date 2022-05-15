@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-<h1 align="center">GST tax management system</h1>
+<h1 align="center">REACT ToDo</h1>
 
 A simple React ToDo app designed using React Framework. 
 The Input Field is validated properly
