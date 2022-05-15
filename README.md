@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+<h1 align="center">GST tax management system</h1>
+
+A simple React ToDo app designed using React Framework. 
+The Input Field is validated properly
+
+
+
+
+![image](https://user-images.githubusercontent.com/37900854/168464878-46f4cbf4-1760-4403-b8a9-49e12b441aff.png)
