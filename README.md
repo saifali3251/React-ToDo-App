@@ -77,7 +77,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 A simple React ToDo app designed using React Framework. 
 The Input Field is validated properly
 
-
-
-
 ![image](https://user-images.githubusercontent.com/37900854/168464878-46f4cbf4-1760-4403-b8a9-49e12b441aff.png)
+
+
+If the input field is Empty, it will throw error
+
+![image](https://user-images.githubusercontent.com/37900854/168464953-5f1b9479-24cf-4a4c-be53-129823e4b297.png)
